@@ -1,0 +1,46 @@
+﻿.parent {
+    display: flex;
+    width: 1921px;
+    height: 80px;
+    border: 1px solid black;
+}
+
+.child {
+    width: 100px;
+    height: 79px;
+    border: 1px solid black;
+}
+.textcenter{
+    text-align: center;
+}
+.bigparent {
+    display: flex;
+    justify-content: space-between;
+    width: 1024px;
+    height: 747px;
+    border: 1px solid black;
+}
+h3 {
+    text-align: center
+}
+p {
+    text-align: center
+}
+.image-button {
+    width: 260px;
+    height: 46px;
+    border: none;
+    background-image: url('button.png');
+    background-size: cover;
+}
+.bigchild {
+    width: 309px;
+    height: 422px;
+    border: 1px solid black;
+}
+.footer {
+    display: flex;
+    width: 1920px;
+    height: 80px;
+    border: 1px solid black;
+}
